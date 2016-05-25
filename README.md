@@ -6,9 +6,9 @@ AVISO!!!!
 Esta es una aplicación para pruebas internas,no está preparada para usarla en producción
 
 Requisitos
-	-python-pip
-	-apache2
-	-php5
+	⋅⋅*python-pip
+	⋅⋅*apache2
+	⋅⋅*php5
 
 Mas info sobre Parallel SSH en "http://linux.die.net/man/1/pssh"
 

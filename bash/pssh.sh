@@ -3,7 +3,7 @@
 hosts=$1
 comando=$2
 fecha2="$(date +%Y%m%d-%H%M)"
-logs="/tmp/$fecha2"
+logs="/tmp/pssh/$fecha2"
 
 mkdir $logs
 touch $logs/hostsOffline

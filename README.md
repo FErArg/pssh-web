@@ -23,7 +23,7 @@ El script "pssh.sh" genera 2 archivos antes de ejecutar el comando "pssh", hostO
 Los resultados podrá verlos en formato "ordenador a ordenador", o desde el acceso de "LiveView" podrá ver todos los resultados en 2 columnas.
 
 
-#BASH
+BASH
 ======
 Se debe ejecutar el archivo "bash/pssh.sh" para que cree los archivos de registro dentro del directorio que se declara en la variable "$logs", estos archivos serán mostrados por la parte "web" de esta aplicación.
 
@@ -44,8 +44,7 @@ Se debe ejecutar el archivo "bash/pssh.sh" para que cree los archivos de registr
 			/tmp/20160520-1621
 
 
-
-#PHP
+PHP
 ======
 1- Debe copiar todo el contenido del directorio "php" en el directorio root de apache2
 
